@@ -8,7 +8,7 @@ Just a USAF Veteran transitioning into software development.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [fullstackbriancao@gmail.com](mailto:fullstackbriancao@gmail.com)
-* 🧠  I'm learning MERN stack
+* 🧠  I'm learning the MERN stack
 
 ### Skills
 
