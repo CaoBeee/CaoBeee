@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Cao
 =================================================================================================================================
 
-Full Stack Software Engineer
+Full Stack Software Developer
 ------------------
 
-From USAF Veteran into software engineering.
+From USAF Veteran to software developer.
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [fullstackbriancao@gmail.com](mailto:fullstackbriancao@gmail.com)
