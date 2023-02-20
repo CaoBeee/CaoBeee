@@ -23,6 +23,19 @@ From USAF Veteran to software developer.
 </p>
 
 <!--START_SECTION:waka-->
+
+```text
+From: 05 July 2022 - To: 19 February 2023
+
+Total Time: 640 hrs 48 mins
+
+JavaScript   248 hrs 49 mins █████████▓░░░░░░░░░░░░░░░   38.83 %
+HTML         206 hrs 44 mins ████████░░░░░░░░░░░░░░░░░   32.26 %
+C#           95 hrs 48 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+SQL          48 hrs 58 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Other        23 hrs 53 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 %
+```
+
 <!--END_SECTION:waka-->
 ### Socials
 
