@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Cao
 =================================================================================================================================
 
-Full Stack Software Developer
+Full Stack Software Developer [![wakatime](https://wakatime.com/badge/user/32b6bf4e-4ed0-43fd-9da2-117b4c0e4411.svg)](https://wakatime.com/@32b6bf4e-4ed0-43fd-9da2-117b4c0e4411)
 ------------------
 
 From USAF Veteran to software developer.
