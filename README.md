@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Brian Cao
-=================================================================================================================================
+![image](https://user-images.githubusercontent.com/98575161/222010172-91ddca68-7e92-4519-9296-bb8a46e8bae6.png)
+
 
 Full Stack Software Developer [![wakatime](https://wakatime.com/badge/user/32b6bf4e-4ed0-43fd-9da2-117b4c0e4411.svg)](https://wakatime.com/@32b6bf4e-4ed0-43fd-9da2-117b4c0e4411)
 ------------------
@@ -12,7 +12,7 @@ From USAF Veteran to software developer.
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/caobeee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fullstackbriancao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p><img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
+<p align="left"> <a href="https://www.github.com/caobeee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fullstackbriancao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
 ### Skills
 
