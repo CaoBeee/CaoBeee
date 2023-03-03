@@ -10,10 +10,6 @@ From USAF Veteran to software developer.
 * ✉️  You can contact me at [fullstackbriancao@gmail.com](mailto:fullstackbriancao@gmail.com)
 * 🧠  I'm learning the MERN stack
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/caobeee" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/fullstackbriancao/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
 ### Skills
 
 
