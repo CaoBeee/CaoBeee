@@ -28,7 +28,7 @@ From USAF Veteran to software developer.
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 July 2022 - To: 04 March 2023
+From: 05 July 2022 - To: 05 March 2023
 
 Total Time: 665 hrs 41 mins
 
