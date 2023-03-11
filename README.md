@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/98575161/222010172-91ddca68-7e92-4519-9296-bb8a46e8bae6.png)
 
-
 Full Stack Software Developer [![wakatime](https://wakatime.com/badge/user/32b6bf4e-4ed0-43fd-9da2-117b4c0e4411.svg)](https://wakatime.com/@32b6bf4e-4ed0-43fd-9da2-117b4c0e4411)
 ------------------
 
