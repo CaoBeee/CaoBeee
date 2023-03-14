@@ -47,3 +47,5 @@ Other        24 hrs 22 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="http://www.github.com/caobeee"><img src="https://github-readme-stats.vercel.app/api?username=caobeee&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&show_icons=true" alt="caobeee's GitHub stats" width="45%" /></a>
 <a href="http://www.github.com/caobeee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caobeee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&" width="50%" /></a>
 </p>
+
+<a href="https://app.daily.dev/CaoBee"><img src="https://api.daily.dev/devcards/f1a9c1587384493db676ce6743d65bbb.png?r=amu" width="400" alt="Brian Cao's Dev Card"/></a>
