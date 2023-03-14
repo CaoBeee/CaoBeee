@@ -48,4 +48,4 @@ Other        24 hrs 22 mins  ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="http://www.github.com/caobeee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caobeee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&" width="50%" /></a>
 </p>
 
-<a href="https://app.daily.dev/CaoBee"><img src="https://api.daily.dev/devcards/f1a9c1587384493db676ce6743d65bbb.png?r=amu" width="400" alt="Brian Cao's Dev Card"/></a>
+<a href="https://app.daily.dev/CaoBee"><img src="https://github.com/CaoBeee/CaoBeee/blob/main/devcard.svg" width="400" alt="Brian Cao's Dev Card"/></a>
