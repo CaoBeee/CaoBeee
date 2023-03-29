@@ -7,7 +7,7 @@ Hi there! I'm Brian, a full stack software engineer with experience in developin
 
 * 🌍  I'm based in California
 * ✉️  You can contact me at [fullstackbriancao@gmail.com](mailto:fullstackbriancao@gmail.com)
-* 🧠  I'm currently learning
+* 🧠  I'm currently learning data structures and algos
 
 ### Skills
  
