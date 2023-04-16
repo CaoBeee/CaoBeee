@@ -32,7 +32,7 @@ Hi there! I'm Brian, a full stack software engineer with experience in developin
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/6064b31ff49a2d31e0493af1/63a5752c581f4d6558272fef_mssql.svg" width="36" height="36" alt="MSSQL" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 
-#### DevOps
+#### Cloud
 <a href="https://www.netlify.com/" target="_blank" rel="noreferrer"><img src="https://jeancochrane.com/static/images/blog/netlify-identity-dealbreakers/netlify-logo.png" width="36" height="36" alt="Netlify" /></a>
 <a href="https://render.com/" target="_blank" rel="noreferrer"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXh8DmTLg4gmk7qGgX2MmjXQxo0wvURi0hTlYExreDLg&usqp=CAU&ec=48600113" width="36" height="36" alt="Render" /></a>
 
