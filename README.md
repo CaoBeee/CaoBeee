@@ -7,7 +7,7 @@ Hi there! I'm Brian, a full stack software engineer with experience in developin
 
 * 🌍  I'm based in Garden Grove, California
 * ✉️  You can contact me at [fullstackbriancao@gmail.com](mailto:fullstackbriancao@gmail.com)
-* 🧠  I'm currently working on a game
+* 🧠  I'm currently learning game development!
 
 ### Skills
 
