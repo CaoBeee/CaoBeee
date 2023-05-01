@@ -6,12 +6,12 @@
 # 💫 About Me:
 Hi there! I'm Brian, a full stack software engineer with experience in developing web applications using React, Node.js, and various other technologies. I have a passion for creating high-quality software that delivers a flawless user experience, and I'm always looking for new challenges to tackle. In my free time, I enjoy tinkering with personal coding projects and keeping up with the latest trends in the tech industry. If you're interested in connecting, feel free to reach out!
 
-<div align="justify">
+<p align="justify">
 🔭 I’m currently working on a game<br>
 🌍 I'm based in Garden Grove, California<br>
 🌱 I’m currently learning game development<br>
 ✉️ You can contact me at fullstackbriancao@gmail.com
-</div>
+</p>
  
 # 💻 Tech Stack:
 
