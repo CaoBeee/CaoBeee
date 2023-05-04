@@ -50,7 +50,7 @@ Hi there! I'm Brian, a full stack software engineer with experience in developin
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 July 2022 - To: 02 May 2023
+From: 05 July 2022 - To: 03 May 2023
 
 Total Time: 688 hrs 18 mins
 
