@@ -4,7 +4,7 @@
  
 ![github-header-image](https://user-images.githubusercontent.com/98575161/236058815-9c8b6f58-f8bb-4d25-a3bc-896696de8e67.png)
 
-# 💫 About Me:
+# 💫 About Me
 Hi there! I'm Brian, a full stack software engineer with experience in developing web applications using React, Node.js, and various other technologies. I have a passion for creating high-quality software that delivers a flawless user experience, and I'm always looking for new challenges to tackle. In my free time, I enjoy tinkering with personal coding projects and keeping up with the latest trends in the tech industry. If you're interested in connecting, feel free to reach out!
 
 <p align="justify">
@@ -13,7 +13,7 @@ Hi there! I'm Brian, a full stack software engineer with experience in developin
 🌱 I’m currently learning game development<br>
 ✉️ You can contact me at fullstackbriancao@gmail.com
  
-# 💻 Tech Stack:
+# 💻 Tech Stack
  
 #### Languages
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -43,7 +43,7 @@ Hi there! I'm Brian, a full stack software engineer with experience in developin
 <a href="https://www.postman.com/" target="_blank" rel="noreferrer"><img src="https://user-images.githubusercontent.com/8083855/44999455-72444280-afce-11e8-9f22-fdd7259c637b.png" width="36" height="36" alt="Postman" /></a>
  
  
-# 📊 GitHub Stats:
+# 📊 GitHub Stats
 
 [![wakatime](https://wakatime.com/badge/user/32b6bf4e-4ed0-43fd-9da2-117b4c0e4411.svg)](https://wakatime.com/@32b6bf4e-4ed0-43fd-9da2-117b4c0e4411)
 
