@@ -10,7 +10,7 @@ Hi there! I'm Brian, a full stack software engineer with experience in developin
 <p align="justify">
 🔭 I’m currently working on some web apps<br>
 🌍 I'm based in Garden Grove, California<br>
-🌱 I’m currently learning next.js<br>
+🌱 I’m currently learning Next.js<br>
 ✉️ You can contact me at fullstackbriancao@gmail.com
  
 # 💻 Tech Stack
