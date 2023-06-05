@@ -5,10 +5,10 @@
 ![github-header-image2](https://github.com/CaoBeee/CaoBeee/assets/98575161/0e28050f-1b62-4dce-a41c-be975fcab708)
 
 # 💫 About Me
-Hi there! I'm Brian, a full stack software engineer with experience in developing web applications using React, Node.js, Next.js and various other technologies. I have a passion for creating high-quality software that delivers a flawless user experience, and I'm always looking for new challenges to tackle. In my free time, I enjoy tinkering with personal coding projects and keeping up with the latest trends in the tech industry. If you're interested in connecting, feel free to reach out!
+Hey there! I'm Brian, a self-taught software developer with a background as a maintenance data analyst in the USAF. Although I don't have a formal degree, I've honed my skills in web development and gained expertise in Next.js, .NET, React.js, and PostgreSQL. My main focus is on creating web applications, and I have a keen interest in game development. I'm eager to continue expanding my skillset and exploring new opportunities in the tech industry. Feel free to connect with me via the email provided in my profile if you'd like to get in touch or learn more about my work.
 
 <p align="justify">
-🔭 I’m currently working on a food website!<br>
+🔭 I’m currently working on a food delivery website!<br>
 🌍 I'm based in Garden Grove, California<br>
 🌱 I’m currently learning Next.js<br>
 ✉️ You can contact me at fullstackbriancao@gmail.com
