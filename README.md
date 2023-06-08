@@ -13,7 +13,7 @@ Hey there! I'm Brian, a self-taught software developer with a background as a ma
 🔭 I’m currently working on a food delivery website!<br>
 🌍 I'm based in Garden Grove, California<br>
 🌱 I’m currently learning Next.js<br>
-✉️ You can contact me at fullstackbriancao@gmail.com
+✉️ You can contact me at fullstackbriancao@gmail.com or connect me with on linkedin
  
 # 💻 Tech Stack
  
