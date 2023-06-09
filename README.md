@@ -63,7 +63,7 @@ Hey there! I'm Brian, a self-taught software developer with a background as a ma
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2022 - To: 07 June 2023
+From: 05 July 2022 - To: 08 June 2023
 
 Total Time: 773 hrs 15 mins
 
