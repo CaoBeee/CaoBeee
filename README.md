@@ -6,8 +6,6 @@
 
 # 💫 About Me
 Hey there! I'm Brian, a self-taught software developer with a background as a maintenance data analyst in the USAF. Although I don't have a formal degree, I've honed my skills in web development and gained expertise in Next.js, .NET, React.js, and PostgreSQL. My main focus is on creating web applications, and I have a keen interest in game development. I'm eager to continue expanding my skillset and exploring new opportunities in the tech industry. Feel free to connect with me via the email provided in my profile if you'd like to get in touch or learn more about my work.
-
- # 
  
 <p align="left">
 🔭 I’m currently working on a food delivery app and a coffee shop website<br>
