@@ -11,7 +11,7 @@ Hey there! I'm Brian, a self-taught software developer with a background as a ma
 <!-- 🔭 I’m pursuing my end goal of game dev<br> -->
 🌱 I’m currently working on Next.js sites<br>
 🌍 I'm residing in Garden Grove, California, USA<br>
-✉️ You can contact me at fullstackbriancao@gmail.com or connect me with on linkedin
+✉️ You can contact me at fullstackbriancao@gmail.com or connect me with on linkedin.
  
 # 💻 Tech Stack
  
