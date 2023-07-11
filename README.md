@@ -92,7 +92,7 @@ TypeScript   48 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 <a href="https://app.daily.dev/CaoBee"><img src="https://github.com/CaoBeee/CaoBeee/blob/main/devcard.svg" width="400" alt="Brian Cao's Dev Card"/></a>
 
-#### ✍️ Random Dev Quote
+#### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ## 💰 One way you can support me is by buying me a coffee or donating! Thank you!
