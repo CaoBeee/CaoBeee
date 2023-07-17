@@ -9,7 +9,7 @@ Hello there! I'm Brian, a self-taught software developer with a background as a 
  
 <p align="left">
 <!-- 🔭 I’m pursuing my end goal of game dev<br> -->
-<!-- 🌱 I’m currently working on Next.js webapps<br> -->
+🌱 I’m currently working on Next.js webapps<br>
 🌍 I'm residing in Garden Grove, California, USA<br>
 ✉️ You can contact me at fullstackbriancao@gmail.com or connect me with on linkedin
  
