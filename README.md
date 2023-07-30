@@ -8,7 +8,7 @@
 Hello there! I'm Brian, a self-taught software developer with a background as a maintenance data analyst in the USAF. Although I don't have a degree, I've been honing my skills in web development and gaining expertise in Next.js, .NET, React.js, and PostgreSQL. My main focus is on creating web apps, and I have a keen interest in game development. I'm eager to continue expanding my skillset and exploring new opportunities in the tech industry. Feel free to connect with me via the email provided in my profile if you'd like to get in touch or learn more about my work.
  
 <p align="left">
-🔭 Follow me on my journey to become a 10x Dev <br>
+🔭 Follow me on my journey to become a 10x Dev! <br>
 🌱 I’m currently working on Next.js webapps<br>
 🌍 I'm residing in Garden Grove, California, USA<br>
 ✉️ You can contact me at fullstackbriancao@gmail.com or connect me with on linkedin
