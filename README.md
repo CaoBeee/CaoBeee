@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
  
 [![](https://visitcount.itsvg.in/api?id=CaoBeee&icon=2&color=0)](https://visitcount.itsvg.in)
  
@@ -11,10 +11,14 @@ When it comes to creating web apps, I'm like a wizard conjuring digital wonders!
 
 Ready for a coding camaraderie? I'm eager to expand my skillset and discover new opportunities in the tech industry! 🚀 If you'd like to learn more about my work or join forces on thrilling projects, feel free to connect with me via the email provided in my profile! Let's embark on an exciting tech adventure together! 🚀
 
-<p align="left">
+---
+
 🎉 Buckle up for an extraordinary adventure as I strive to become a Dev dynamo, multiplying my skills by 10! 🚀
+
 🌱 My current playground: Next.js webapps - where innovation sprouts and blossoms! 🌼
+
 🌍 Proudly rooted in Garden Grove, California, USA - coding with sunshine vibes! 🌞
+
 ✉️ Reach out anytime at fullstackbriancao@gmail.com or let's professionally network on LinkedIn! Let's grow together! 🌱
  
 # 💻 Tech Stack
