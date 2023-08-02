@@ -19,7 +19,7 @@ Ready for a coding camaraderie? I'm eager to expand my skillset and discover new
 
 🌍 Proudly rooted in Garden Grove, California, USA - coding with sunshine vibes! 🌞
 
-✉️ Reach out anytime at fullstackbriancao@gmail.com or let's professionally network on LinkedIn! Let's grow together! 🌱
+✉️ Reach out anytime at fullstackbriancao@gmail.com or let's connect on LinkedIn! Let's grow together! 🌱
  
 # 💻 Tech Stack
  
