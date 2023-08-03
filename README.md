@@ -69,7 +69,7 @@ Ready for a coding camaraderie? I'm eager to expand my skillset and discover new
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2022 - To: 01 August 2023
+From: 05 July 2022 - To: 02 August 2023
 
 Total Time: 789 hrs 54 mins
 
