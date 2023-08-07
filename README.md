@@ -9,7 +9,7 @@ Hello, fellow tech enthusiasts! 🎉 I'm Brian, a coding enthusiast who's charti
 
 When it comes to creating web apps, I'm like a wizard conjuring digital wonders! ✨ But that's not all, I've got my eyes on another realm too – game development has piqued my interest like never before! 🎮
 
-Ready for a coding camaraderie? I'm eager to expand my skillset and discover new opportunities in the tech industry! If you'd like to learn more about my work or join forces on thrilling projects, feel free to connect with me via the email provided in my profile! Let's embark on an exciting tech adventure together! 🚀
+I'm eager to expand my skillset and discover new opportunities in the tech industry! If you'd like to learn more about my work or join forces on thrilling projects, feel free to connect with me via the email provided in my profile! Let's embark on an exciting tech adventure together! 🚀
 
 ---
 
