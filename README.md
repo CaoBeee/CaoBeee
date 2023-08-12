@@ -5,7 +5,7 @@
 ![github-header-image2](https://github.com/CaoBeee/CaoBeee/assets/98575161/0e28050f-1b62-4dce-a41c-be975fcab708)
 
 # 💫 About Me
-Hello, fellow tech enthusiasts! 🎉 I'm Brian, a coding enthusiast who's charting a course of self-discovery in the tech universe! 🌌 In my past, I wielded the power of data analysis in the USAF. But now, I've set sail on an exciting journey into the captivating world of web development! 💻 Next.js, .NET, React.js, and PostgreSQL are my trusty tools of choice!
+Hello, fellow tech enthusiasts! 🎉 I'm Brian, a coding enthusiast who's charting a course of self-discovery in the tech universe! 🌌 In my past, I wielded the power of data analysis in the USAF. But now, I've set sail on an exciting journey into the world of web development! 💻 Next.js, .NET, React.js, and PostgreSQL are my trusty tools of choice!
 
 When it comes to creating web apps, I'm like a wizard conjuring digital wonders! ✨ But that's not all, I've got my eyes on another realm too – game development has piqued my interest like never before! 🎮
 
