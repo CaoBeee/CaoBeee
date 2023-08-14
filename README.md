@@ -92,7 +92,7 @@ TypeScript   58 mins         ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 <a href="http://www.github.com/caobeee"><img src="https://github-readme-streak-stats.herokuapp.com/?user=caobeee&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&" width="50%" /></a>
 </p>
 
-### 🔝 Top Contributed Repo
+### 🔝 Top Contributed Repos
 ![](https://github-contributor-stats.vercel.app/api?username=CaoBeee&limit=5&theme=apprentice&combine_all_yearly_contributions=true)
 
 ### 🏆 GitHub Trophies
