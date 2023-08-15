@@ -69,7 +69,7 @@ I'm eager to expand my skillset and discover new opportunities in the tech indus
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2022 - To: 13 August 2023
+From: 05 July 2022 - To: 14 August 2023
 
 Total Time: 806 hrs 8 mins
 
