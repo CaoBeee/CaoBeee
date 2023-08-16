@@ -17,7 +17,7 @@ I'm eager to expand my skillset and discover new opportunities in the tech indus
 
 🌱 My current playground: Next.js webapps - where innovation sprouts and blossoms!
 
-🌍 Proudly rooted in Garden Grove, California, USA 🌞
+🌍 Proudly rooted in Garden Grove, California, USA
 
 ✉️ Reach out anytime at fullstackbriancao@gmail.com or let's connect on LinkedIn! Let's grow together! 🌱
  
