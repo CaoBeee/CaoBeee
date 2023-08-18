@@ -13,8 +13,6 @@ I'm eager to expand my skillset and discover new opportunities in the tech indus
 
 ---
 
-🎉 Buckle up for an extraordinary adventure as I strive to become a Dev dynamo, multiplying my skills by 10! 🚀
-
 🌱 My current playground: Next.js webapps - where innovation sprouts and blossoms!
 
 ✉️ Reach out anytime at fullstackbriancao@gmail.com or let's connect on LinkedIn! Let's grow together! 🌱
