@@ -4,8 +4,6 @@
  
 ![github-header-image2](https://github.com/CaoBeee/CaoBeee/assets/98575161/0e28050f-1b62-4dce-a41c-be975fcab708)
 
-# 💫 About Me
-
 ✉️ Reach out anytime at fullstackbriancao@gmail.com or let's connect on LinkedIn!
  
 # 💻 Tech Stack
