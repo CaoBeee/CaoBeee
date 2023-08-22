@@ -6,8 +6,6 @@
 
 # 💫 About Me
 
-🌱 My current playground: Next.js webapps - where innovation sprouts and blossoms!
-
 ✉️ Reach out anytime at fullstackbriancao@gmail.com or let's connect on LinkedIn!
  
 # 💻 Tech Stack
