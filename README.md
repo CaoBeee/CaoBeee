@@ -6,7 +6,7 @@
 
 ✉️ Reach out anytime at fullstackbriancao@gmail.com or let's connect on LinkedIn!
  
-# 💻 Tech
+# 💻 Technologies
  
  <table>
   <tr>
