@@ -83,7 +83,7 @@ XML          1 hr 37 mins    ⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=CaoBeee&theme=apprentice&no-frame=false&no-bg=false&margin-w=4)
 
-<a href="https://app.daily.dev/CaoBee"><img src="https://github.com/CaoBeee/CaoBeee/blob/main/devcard.svg" width="400" alt="Brian Cao's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/CaoBee"><img src="https://github.com/CaoBeee/CaoBeee/blob/main/devcard.svg" width="400" alt="Brian Cao's Dev Card"/></a> -->
 
 ### ✍️ Random Dev Quotes
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
